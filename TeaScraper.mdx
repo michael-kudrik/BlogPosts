@@ -30,7 +30,7 @@ from selenium.webdriver.support import expected_conditions as EC
 ```
 
 ## The Code
-After importing the necessary Libraries, we need to set the url and driver. I chose to use the website steepster.com to act as the site being scraped. The reason the link begins on page 13, is to remove any fluctuation when it comes to class or XPATH the next button. 
+After importing the necessary Libraries, we need to set the url and driver. I chose to use the website steepster.com to act as the site being scraped. The reason the link begins on page 13, is to remove any fluctuation when it comes to class or XPATH of the next button. 
 ```python
 url = 'https://steepster.com/teas?page=13&sort=rating'
 driver = webdriver.Chrome()
@@ -68,7 +68,7 @@ Next, to extract the rating, we use a try-except block. We attempt to find the r
 
 By now you should have noticed that in order to scrape an element we assign a variable and then use the .find_element method which uses XPATH & CLASS_NAME to locate the item we would like to scrape.  
 
-Next, we use another try-except block to handle finding the next button element. If the next button is found, we click it and wait for the page to load using WebDriverWait and the staleness_of condition on the first tea element. If the next button is not found, we break out of the loop.  
+Finally, we use another try-except block to handle finding the next button element. If the next button is found, we click it and wait for the page to load using WebDriverWait and the staleness_of condition on the first tea element. If the next button is not found, we break out of the loop.  
 
 <CustomImage src="https://raw.githubusercontent.com/michael-kudrik/BlogPosts/main/images/TeaScrape2.jpg" alt="Text file containing tea names"/>
 This program is not perfect and has a few flaws such as getting two of the same texts as an output. In order to allow it to be most suited for your personal project, you can also choose to output your scraped text into a .csv file or a .json document. 
