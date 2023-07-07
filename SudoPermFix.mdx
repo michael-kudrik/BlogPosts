@@ -31,9 +31,9 @@ visudo
 11. Save and Exit (Ctrl+X and then Y).
 ## If the above does not work, do the following.
 1. Repeat up to step 6 if not already in root mode.
-2. Verify your user's group membership by running the command id <your_username>. Replace <your_username> with your actual username.
+2. Verify your user's group membership by running the command id your_username. Replace your_username with your actual username.
 3. Check if your username is listed under the "sudo" or "admin" group. The output of the id command should display the groups your user is a member of.
-4. If your username is not listed in the "sudo" or "admin" group, you can add it to the appropriate group by running the command ```usermod -aG sudo <your_username>```. Replace <your_username> with your actual username. If you're using the "admin" group instead of "sudo," modify the command accordingly (usermod -aG admin <your_username>).
+4. If your username is not listed in the "sudo" or "admin" group, you can add it to the appropriate group by running the command ```usermod -aG sudo your_username```. Replace your_username with your actual username. If you're using the "admin" group instead of "sudo," modify the command accordingly (usermod -aG admin your_username).
 5. Once you've added your username to the group, you can exit the root terminal by typing exit.
 
 
