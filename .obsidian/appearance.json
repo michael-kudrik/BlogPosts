@@ -1,5 +1,7 @@
 {
   "accentColor": "#eaaa76",
   "cssTheme": "Shiba Inu",
-  "theme": "moonstone"
+  "theme": "obsidian",
+  "interfaceFontFamily": "IBM Plex Sans",
+  "textFontFamily": "IBM Plex Serif"
 }
