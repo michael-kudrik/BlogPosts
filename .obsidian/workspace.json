@@ -11,32 +11,13 @@
             "id": "6bc147ee9164f291",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Surfing Soulseek.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Surfing Soulseek"
-            }
-          },
-          {
-            "id": "63820e90593ee6fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Scene at the Sea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Scene at the Sea"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Scene at the Sea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A Scene at the Sea"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Scene at the Sea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A Scene at the Sea"
+              "title": "Outgoing links"
             }
           },
           {
@@ -153,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A Scene at the Sea.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of A Scene at the Sea"
+              "title": "Outline"
             }
           }
         ]
@@ -177,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63820e90593ee6fe",
+  "active": "6bc147ee9164f291",
   "lastOpenFiles": [
+    "Surfing Soulseek.md",
+    "A Scene at the Sea.md",
     "images/SeaScene/SceneAtTheSea1.jpg",
     "images/SeaScene",
     "images/sl.png",
@@ -190,7 +169,6 @@
     "images/Soulseek-png-3.png",
     "images/ObsidianExample.png",
     "images/NextLevel1.png",
-    "images/Music1/timely!.jpg",
     "images/Music1",
     "images",
     "Welcome-Post.mdx",
@@ -200,8 +178,6 @@
     "SherlockTool.mdx",
     "Music1.mdx",
     "Issue2.mdx",
-    "Surfing Soulseek.md",
-    "A Scene at the Sea.md",
     "Music1.md",
     "().md",
     "Surfing Soulseek.mdx.md"
