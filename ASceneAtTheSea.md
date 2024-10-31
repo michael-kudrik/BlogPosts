@@ -10,10 +10,10 @@ tags:
 
 Tonight I watched a Japanese live-action movie with a close buddy of mine. He recently released his[ own blog](https://www.ericbuecklers.studio/blog) so feel free to check it out. Before I get into the nitty gritty of my review I will give a brief synopsis. 
 
-The movie directed by Takeshi Kitano flows peacefully with very little spoken dialogue, and a focus on storytelling. It follows our main character Shigeru who works as a garbage collector and is deaf. He stumbles upon a surfboard on one of his garbage runs and becomes destined to take up surfing. 
+*A Scene at the Sea*  is a movie directed by Takeshi Kitano. Released in 1991, it takes place around the same time that shortboarding was going through significant advancements. The movie flows peacefully with very little spoken dialogue, and a focus on storytelling. It follows our main character Shigeru who works as a garbage collector and is deaf. He stumbles upon a surfboard on one of his garbage runs and becomes destined to take up surfing. 
 
 <CustomImage src="https://raw.githubusercontent.com/michael-kudrik/BlogPosts/refs/heads/main/images/SeaScene/SceneAtTheSea1.jpg" alt="Image of shoreline during surf contest"/>
-## **Warning Spoilers Ahead!**
+## Warning Spoilers Ahead!
 
 The movie starts off with Shigeru carrying on with his daily garbage collection routine. He stops and sees a surfboard with a damaged nose. He hesitates and decides to ignore it, only to stop a couple hundred feet down the street to run back and grab it. He brings it back to his home where he works hard to patch it up to the best of his abilities. Shigeru is eager to get in the water at this point.
 
@@ -46,3 +46,10 @@ As a surfer myself, my heart absolutely dropped. I was in utter disbelief as thi
 There is no dramatic build up, and his death is handled with the same quiet dignity and restraint that characterizes the entire film. There is no dramatic build up or spectacle - he simply goes out surfing one day and never returns. Drowning in the ocean that had become so central to his life. The power of this moment comes as an understatement, we don't visibly see his death and we don't really need to. 
 
 What makes this narrative so impactful is that it aligns with the films themes. The same ocean that gave Shigeru purpose and joy ultimately claims him. There is no melodrama and his death is presented as part of the natural order, like the ebb and flow of the waves themselves. 
+
+<CustomImage src="https://raw.githubusercontent.com/michael-kudrik/BlogPosts/refs/heads/main/images/SeaScene/A_Scene_at_the_Sea_050.jpg" alt="saying goodbye to shigeru"/>
+
+The way that the film handles the aftermath transforms what would have been a tragic ending to something more contemplative and spiritually resonant. 
+
+Shigeru's girlfriend deals with grief in a solemn way. Her final act involves taping a picture of the two of them to his surfboard before sending it out to sea. It is not only a expression of grief, but also an acknowledgment of the the trust that Shigeru had found in the waves.
+
