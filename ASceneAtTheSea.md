@@ -21,7 +21,7 @@ It is also at this time that we are introduced to his also deaf girlfriend. The 
   
 Eventually the board breaks and Shigeru buys himself a brand new high performance surfboard (Pretty awesome, right?) .  He continues to practice and eventually attracts the eye of the surf shop owner who gifts him an old wetsuit, and encourages him to go to a surf competition. 
 
-He arrives at the competition yet misses his name being called for his heat. Nevertheless, Shigeru continues to surf, perhaps in a hope to fill the holes in his stale and silent life. It's this passion that he starts to hold dearly, and eventually improves upon that drives him in his day to day life.
+He arrives at the competition yet misses his name being called for his heat. Nevertheless, Shigeru continues to surf, perhaps in hopes to fill the holes in his stale and silent life. It's this passion that he starts to hold dearly, and eventually improves upon, that drives him in his day to day life.
 
 The cinematography compliments the story and does not hold back in the slightest when it comes to long and static shots showcasing the vivid color and seascape. Most of the shots entail one character observing the other from afar, something I haven't quite seen much of in other films. It is although the characters are pondering into the detached reality of the others life. 
 
