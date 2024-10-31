@@ -11,14 +11,10 @@
             "id": "6bc147ee9164f291",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASceneAtTheSea.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ASceneAtTheSea"
+              "title": "New tab"
             }
           }
         ]
@@ -73,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASceneAtTheSea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ASceneAtTheSea"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASceneAtTheSea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ASceneAtTheSea"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ASceneAtTheSea.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of ASceneAtTheSea"
+              "title": "Outline"
             }
           }
         ]
@@ -164,21 +157,20 @@
   },
   "active": "6bc147ee9164f291",
   "lastOpenFiles": [
+    "ASceneAtTheSea.md",
+    "ASceneAtTheSea.mdx",
     "images/SeaScene/A_Scene_at_the_Sea_052.jpg",
     "images/SeaScene/A_Scene_at_the_Sea_050.jpg",
     "images/SeaScene/A_Scene_at_the_Sea_047.jpg",
     "images/SeaScene/A_Scene_at_the_Sea_004.jpg",
     "images/SeaScene/A_Scene_at_the_Sea_037.jpg",
     "images/SeaScene/ShigeruAndGirl.png",
-    "ASceneAtTheSea.md",
     "Surfing Soulseek.md",
-    "ASceneAtTheSea.md",
     "images/SeaScene/SceneAtTheSea1.jpg",
     "images/SeaScene",
     "images/sl.png",
     "images/nicotineExample.png",
     "images/figlet.png",
-    "images/TeaScrape2.jpg",
     "images/Music1",
     "images",
     "Welcome-Post.mdx",
@@ -187,7 +179,6 @@
     "SudoPermFix.mdx",
     "SherlockTool.mdx",
     "Music1.mdx",
-    "Issue2.mdx",
     "Music1.md",
     "().md",
     "Surfing Soulseek.mdx.md"
