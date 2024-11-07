@@ -11,10 +11,14 @@
             "id": "6bc147ee9164f291",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DataRecovery/DataRecovery.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DataRecovery"
             }
           }
         ]
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,12 +160,15 @@
   },
   "active": "6bc147ee9164f291",
   "lastOpenFiles": [
+    "images/ddrescue_output.png",
+    "images/SeaScene/A_Scene_at_the_Sea_004.jpg",
+    "DataRecovery/DataRecovery.md",
+    "DataRecovery",
     "ASceneAtTheSea.md",
     "ASceneAtTheSea.mdx",
     "images/SeaScene/A_Scene_at_the_Sea_052.jpg",
     "images/SeaScene/A_Scene_at_the_Sea_050.jpg",
     "images/SeaScene/A_Scene_at_the_Sea_047.jpg",
-    "images/SeaScene/A_Scene_at_the_Sea_004.jpg",
     "images/SeaScene/A_Scene_at_the_Sea_037.jpg",
     "images/SeaScene/ShigeruAndGirl.png",
     "Surfing Soulseek.md",
@@ -178,7 +184,6 @@
     "SurfingSoulseek.mdx",
     "SudoPermFix.mdx",
     "SherlockTool.mdx",
-    "Music1.mdx",
     "Music1.md",
     "().md",
     "Surfing Soulseek.mdx.md"
