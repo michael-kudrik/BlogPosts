@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "DataRecovery"
             }
+          },
+          {
+            "id": "59646a5d30d01e45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Issue 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Issue 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,13 +173,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bc147ee9164f291",
+  "active": "59646a5d30d01e45",
   "lastOpenFiles": [
+    "images/Issue3/surfContest.jpg",
+    "images/Issue3",
+    "images/New folder",
+    "DataRecovery/DataRecovery.md",
+    "Issue 3.md",
+    "Issue 3",
     "DataRecovery.mdx",
     "DataRecovery.md",
     "images/ddrescue_output.png",
     "images/SeaScene/A_Scene_at_the_Sea_004.jpg",
-    "DataRecovery/DataRecovery.md",
     "DataRecovery",
     "ASceneAtTheSea.md",
     "ASceneAtTheSea.mdx",
@@ -181,10 +201,6 @@
     "images/Music1",
     "images",
     "Welcome-Post.mdx",
-    "TeaScraper.mdx",
-    "SurfingSoulseek.mdx",
-    "SudoPermFix.mdx",
-    "SherlockTool.mdx",
     "Music1.md",
     "().md",
     "Surfing Soulseek.mdx.md"
