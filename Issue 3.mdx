@@ -1,0 +1,105 @@
+---
+title: Issue 3
+date: 2024-11-20
+tags:
+  - Weekly
+---
+
+# Issue 3 - Surf Contest 
+
+<CustomImage src="https://raw.githubusercontent.com/michael-kudrik/BlogPosts/main/images/Issue3/surfContest.jpg" alt="Image of me at surf contest"/>
+
+Last weekend I attended my first surf contest here in Rhode Island. While the waves were very small, I still had a ton of fun. I met some great people and caught tons of little waves. Above is a picture taken from the stand, where you can see me warming up in yellow.
+
+## trendy tools
+
+### AudioRelay
+
+[https://audiorelay.net/](https://audiorelay.net/)
+
+ <CustomImage src=" https://raw.githubusercontent.com/michael-kudrik/BlogPosts/main/images/Issue3/AudioRelay.png" alt="AudioRelay"/>
+
+This application allows the user to use their smartphone as a microphone or speaker on their PC. According to their website, they support both USB and wireless connections. One user testified that the audio delay was only a mere 25 milliseconds, not bad at all!
+
+### Hyper Notepad
+
+[https://hypernotepad.com/](https://hypernotepad.com/)
+
+  <CustomImage src="https://raw.githubusercontent.com/michael-kudrik/BlogPosts/main/images/Issue3/HyperNotepad.png" alt="Hyper Notepad" />
+
+I found Hyper Notepad while browsing a Reddit page dedicated to people's side projects. The website allows for quick notes that are saved on the cloud. It has all the basic features you need and lets you share your note via a unique link. This could be useful for students who want to share notes without using a bloat-heavy service like Google Docs. 
+
+## oldversion.com
+
+[http://www.oldversion.com/](http://www.oldversion.com/)
+
+This website has a huge library of older versions of software. Their motto, "Because newer is not always better," still rings true. The website, which has been up since 2001, does just as it sounds by allowing users to downgrade their programs. 
+
+### tabliss
+
+[https://tabliss.io/](https://tabliss.io/)
+
+  <CustomImage src="https://raw.githubusercontent.com/michael-kudrik/BlogPosts/main/images/Issue3/tabliss.jpg" alt="tabliss" />
+
+This amazing browser extension allows you to customize the look of your new tabs. Above, I have a screenshot of my personal setup. You can choose your background and configure what is displayed on the tab. I have quick-links that go straight to important bookmarks. Give it a peek; it is 100% free and works on Firefox, Chrome, and Edge browsers.
+
+### Moonlight Streaming
+
+[https://moonlight-stream.org/](https://moonlight-stream.org/)
+
+According to their homepage, Moonlight allows you to play PC games on almost any device, regardless of the distance. It is a FOSS implementation of NVIDIA's GameStream protocol. Their Reddit page has an impressive twelve thousand members, and the GitHub repository is backed by many. It can be self-hosted using [Sunshine](https://app.lizardbyte.dev/Sunshine/?lng=en-US). If you are a gamer, it might be cool to check this out!
+  
+## top level domains
+
+I have been learning about networking in one of my cybersecurity classes recently, and we got onto the discussion of domains. A domain is composed of three parts that are displayed below.
+
+  ![](https://love2dev.com/img/domain-name-structure-diagram-720x345.png)
+
+1. The **domain name** is probably the easiest to identify. My domain is mikekudrik, while some other examples are google or microsoft 
+2. The **sub-domain** is whatever a website provisions it to be. The page you are on right now is a subdomain (blog) of my home website (mikekudrik)
+3. The **top-level domain**, or TLD, is purchased along with the domain name from an [ICANN](https://www.icann.org/)-accredited domain name registrar, and is typically paid for and renewed on a yearly basis. The TLD of my site is .boats
+
+I was curious what top-level domains were available, which led me to doing some digging. It turns out that the [Internet Assigned Numbers Authority](https://www.iana.org/) actually has a text file that is updated daily and contains a list of all available TLDs. You can check it out for yourself [here](http://data.iana.org/TLD/tlds-alpha-by-domain.txt).
+
+TLDs can be broken down into two parts:
+- sTLD are sponsored by corporations and include things like .edu and .mil or .gov
+- uTLD are unsponsored and encompass the rest of the available TLDs
+
+In addition to these top-level domains, there are also country-code top-level domains called ccTLD. They are composed of two letters, such as .us and the more notable .tv which is actually for the country [Tuvalu ](https://en.wikipedia.org/wiki/.tv). Cool right?
+
+If you took a look at the IANA list of TLDs I shared earlier, you might see something at the bottom of the list that looks like this: `XN--VERMGENSBERATUNG-PWB`. What the heck is that? Well, it's actually something called  [Punycode](https://en.wikipedia.org/wiki/Punycode), and it is used to translate names containing Unicode characters to a subset containing ASCII made up of the number, letters, and hyphens you see above.
+
+What is Punycode used for? Well, it is actually very simple. Not every country uses English, and thus, the [DNS](https://en.wikipedia.org/wiki/Domain_Name_System), must account for non-ASCII characters in domain names. 
+
+The example I gave you earlier: `XN--VERMGENSBERATUNG-PWB` can be translated to *vermögensberatung* which means something along the lines of "German Wealth Advisor." 
+
+[Punycoder.com](https://www.punycoder.com/) gives an easier to digest example of this. 
+
+<CustomImage src="https://raw.githubusercontent.com/michael-kudrik/BlogPosts/main/images/Issue3/punyExample.png" alt="punycode translator" />
+
+## looking around
+
+### Archinstall 3.0 released
+
+The popular Linux distribution Arch recently updated their menu-based installation script, a major milestone. The update's biggest feature is a revamped text-mode user interface, or TUI, that now uses the Curses terminal control library. Now the installer will display each main setting on a side panel rather than a new page like it previously did. 
+
+Many Arch-fanboys argue that using the installation script is "cheating." However I found it to be very helpful for those who do not want to go through the pain of a manual install, which involves manual partitioning and other painfully tedious tasks. 
+
+![](https://private-user-images.githubusercontent.com/861439/386946803-2e4dde3a-39fb-4fb2-a400-911d36a6efa0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxNTAxNjAsIm5iZiI6MTczMjE0OTg2MCwicGF0aCI6Ii84NjE0MzkvMzg2OTQ2ODAzLTJlNGRkZTNhLTM5ZmItNGZiMi1hNDAwLTkxMWQzNmE2ZWZhMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMVQwMDQ0MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZjI5OTc4ZDVlZjRmOTA4MjNjOGZjZTRjZWE2MmQyYWJhODgyYjMwMzA3Mzc4YWI3ZjY1NDE3ODFkOWM1MTA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fJm7IDA-M_d34chLHONwH2Kr8q723dxNuKVRupjOK7c)
+
+### Windows 10 end of support
+
+Three years ago, in 2021, Microsoft announced that the Windows 10 operating system would stop getting security updates on October 2025. This date is getting closer, and for those like me who prefer 10 over 11, we must be prepared for this event.
+
+A friend of mine recently purchased a solid-state drive for his computer, so we decided why not pair it with a fresh installation? I ended up choosing the enterprise LTS version of Windows 10 as it offers long-term support, meaning it will continue to receive security updates until anywhere from 2027-2032. 
+
+You can download it and activate it via [massgrave.dev](https://massgrave.dev/windows_ltsc_links).
+
+## closing
+
+As Thanksgiving break nears, it becomes a stressful time for students as classes pick up. I have been trying to de-stress by skateboarding more often and allowing time for my own projects, such as this blog. 
+
+It would be great if the swell picked up!
+
+Cheers-
+Mike 🤙

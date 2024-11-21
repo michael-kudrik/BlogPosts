@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "DataRecovery"
             }
-          },
-          {
-            "id": "59646a5d30d01e45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Issue 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Issue 3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31109216965f7b3c",
@@ -173,13 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59646a5d30d01e45",
+  "active": "6bc147ee9164f291",
   "lastOpenFiles": [
+    "Issue 3.md",
+    "Issue 3.mdx",
+    "images/Issue3/punyExample.png",
+    "images/Issue3/tabliss.jpg",
+    "images/Issue3/~abliss.tmp",
+    "images/Issue3/tabliss.JPG",
+    "images/Issue3/HyperNotepad.png",
+    "images/Issue3/AudioRelay.png",
     "images/Issue3/surfContest.jpg",
     "images/Issue3",
     "images/New folder",
     "DataRecovery/DataRecovery.md",
-    "Issue 3.md",
     "Issue 3",
     "DataRecovery.mdx",
     "DataRecovery.md",
@@ -190,17 +183,9 @@
     "ASceneAtTheSea.mdx",
     "images/SeaScene/A_Scene_at_the_Sea_052.jpg",
     "images/SeaScene/A_Scene_at_the_Sea_050.jpg",
-    "images/SeaScene/A_Scene_at_the_Sea_047.jpg",
-    "images/SeaScene/A_Scene_at_the_Sea_037.jpg",
-    "images/SeaScene/ShigeruAndGirl.png",
     "Surfing Soulseek.md",
-    "images/SeaScene/SceneAtTheSea1.jpg",
     "images/SeaScene",
-    "images/sl.png",
-    "images/nicotineExample.png",
     "images/Music1",
-    "images",
-    "Welcome-Post.mdx",
     "Music1.md",
     "().md",
     "Surfing Soulseek.mdx.md"
