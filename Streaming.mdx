@@ -1,0 +1,81 @@
+
+# Streaming Services Suck
+
+### The Cost
+
+And I'm tired of pretending like they don't. Back in the early 2010s, services like Netflix and Hulu felt like miracles. For $10 or less you could get access to what, at the time, was a large catalog of titles. And the best part: it was simple, quick, and advertisement-free. Streaming was deemed the "cable killer" because of how it respected our time.
+
+Fast-forward to the end of 2025 and we are witnessing the [Enshittification](https://en.wikipedia.org/wiki/Enshittification) of streaming right before our eyes. Services that started at $8 now $20+ per month. To make things worse, many of these services force ads as the *default*, meaning you will have to cough up a bit more money just to get the ad-free experience you had just years prior.  
+
+All of this sounds fine until you realize that the service you are **paying for** does not have the content you are **looking for**. If you want to watch everything, you will need to pay for everything. Recent estimates put the average American at spending close to $70 a month on streaming. 
+
+### The Quality
+
+In addition to the cost, it's important to discuss the quality rendered by these streaming services. 
+
+I would like to present to you the "Friday Night Ritual," in which many people participate in:
+
+1. You open Netflix in search of a movie. Netflix doesn't have it.
+2. You switch to HBO Max (now simply called Max?). Surely they have it right? No.
+3. Did Disney produce this movie? Check Disney+ to find out they didn't.
+4. It must be on Hulu. It is! But there's a problem. "This title requires the Live TV + Sports Premium Add-on for an additional $5.99 a month."
+5. This is ridiculous. So you google where to watch X movie and it tells you that it's on the one service you are not paying for.
+6. Give up.
+
+Not only is the quality of life horrible, but the actual quality is too. It is important to understand the difference between *resolution*
+and *bit rate*. 
+
+Say we are talking about a 4K movie. Think of the 4K as the canvas size. There are 3,840 x 2,160 pixels of which the canvas can hold. This tells us that the movie will be able to hold more detail than something that is DVD quality at 720x480 pixels. 
+
+Now let's think about bit rate as the amount of paint on the canvas and the quality in which the artist laid it out. Bit rate is typically measured in megabits per second (Mbps) and can be night and day when it comes to the true visual quality of the movie. 
+
+So if we have a 4K movie but it has a low bit rate, this means that there is only a tiny bit of paint making the overall painting look poor, and in our analogy the movie looks blocky and muddy. 
+
+This is where streaming services really screw you. Most services will produce a 15-25 Mbps bit rate while streaming. This looks fine up until there are dark scenes or fast motion, in which case it looks block-like. A 4K Blue-ray video on the other hand, will produce a whopping 80-128 Mbps bit rate, giving you crystal clear detail. We will discuss this further later on.
+
+## The Solution
+
+On the next page I will give you all you need to know about how and why you should look towards this streaming service replacement.
+
+### What is Stremio?
+
+[Stremio](https://www.stremio.com/) is a free and open-source program that allows you to aggregate movies and TV shows from various sources. Essentially it is a toolbox that solves the fragmentation between different streaming services. Instead of viewing only Netflix's or Hulu's catalogs, you can view them together in one spot. However, it does not host any content itself, meaning you cannot actually watch a movie directly from Stremio. This brings me to my next program.
+
+### What is Real Debrid?
+
+If you are already familiar with [torrents](https://en.wikipedia.org/wiki/BitTorrent) and other peer-to-peer software, then you should be familiar with debrid services as well. For those who are unfamiliar, I will try to explain the concept of companies like Real Debrid as easily as I can. 
+
+Let's use a puzzle analogy. Say you want to complete a puzzle. Using torrents in this scenario would be like waiting for 50 people to mail you one piece of the puzzle. It is very slow and inefficient. Using a service like Real Debrid, however, is much more straightforward. The kind people at Real Debrid have already completed said puzzle, and they send it to you over their high-speed mail network.
+
+Now think of the puzzle as a 4K movie. As opposed to typical torrent ideology, where you would have to use a VPN and wait for people to send you parts of the movie, you can instead just download directly from the debrid service. 
+
+### How are they used together?
+
+We will use these two services in conjunction. Stremio will be used as our viewing platform, allowing us to browse and play content, while Real Debrid allows us to actually fetch the content. 
+
+## Setup
+
+Starting at step 2, I would recommend using a computer with Stremio installed and signed in.
+
+1. The first plan of action should be to create an account on [stremio.com](https://www.stremio.com/) and download it on whatever device you plan to watch on. My recommendation would be to pick up a *Onn 4K* from Walmart since it runs Android OS and is very easily configured. 
+2. Subscribe to a debrid service. My recommendation is [Real Debrid](https://real-debrid.com/), since it is $3 a month. Quite the price cut compared to streaming services, huh? I would also recommend using [Privacy.com](https://www.privacy.com/) when purchasing subscriptions since Real Debrid is a French-based company, and you may run into issues if trying to use a US credit card. 
+3. Navigate to [torrentio.strem.fun/configure](https://torrentio.strem.fun/configure) to bridge Stremio with your debrid provider. The instructions are fairly simple. Under debrid options, choose Real Debrid and paste in your API key, which can be found in your account settings. After that, simply click install, and it should open in Stremio. 
+4. At this point you should have a working streaming solution. Simply navigate to Stremio on your smart TV or device and search for a movie. 
+
+### Pros And Cons
+
+- One benefit to this setup is that since Real Debrid caches popular torrents on its own high-speed servers, massive 4K Blueray files can play instantly without buffering. This means you won't be sacrificing the reliability of services like Netflix. 
+- There is no need for a VPN. Since you are streaming directly from Real Debrid's servers, the traffic is encrypted, and your internet service provider cannot see what you are watching.
+- The cost-effectiveness of this solution is huge. Depending on the package, you can get a Real Debrid subscription for $3 to $4 dollars a month.
+
+As with everything, there are a few downsides. 
+
+- There is a risk of downtime. If Real-Debrid's servers go down, you will not be able to watch until they are back. This has happened to me a few times while using this setup. It simply gives you more time to touch grass, in my opinion. 
+- Real-Debrid has a single IP rule, meaning that you can only use your account in a single location, such as your home. If you travel a lot, this should be a consideration.
+- No skip-intro features. Unlike streaming services, there is no way for Streamio to know when a show ends, and therefore you will have to manually skip TV show introductions. 
+
+## Final Notes
+
+I have been using this setup in our college dorm for many months now, and it has saved many headaches. We are getting higher quality video than streaming services, and we are doing it cheaply with no advertisements shoved down our throats. I would highly recommend this to anyone who is fed up with these large streaming corporations making money off of them and their advertising data. 
+
+I would recommend that you take a look at [this Reddit post](https://www.reddit.com/r/StremioAddons/comments/17833ms/stremio_all_you_need_to_know/), as they do a great job walking you through setup.
